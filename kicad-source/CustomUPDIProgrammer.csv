@@ -1,0 +1,17 @@
+Item,Qty,Reference(s),Value,LibPart,Footprint
+1,2,"C1, C2",0.1uF,Device:C_Small,Capacitor_SMD:C_0603_1608Metric
+2,2,"C3, C4",1uF,Device:C_Small,Capacitor_SMD:C_0603_1608Metric
+3,1,D1,"PRTR5V0U2X,215",Power_Protection:PRTR5V0U2X,locallib:SOT143B
+4,1,D2,1N4148W,Device:D_Small,Diode_SMD:D_SOD-123
+5,3,"D3, D4, D5",LED-Red-0805,Device:LED_Small,LED_SMD:LED_0603_1608Metric
+6,1,F1,1A,Device:Polyfuse_Small,Fuse:Fuse_1206_3216Metric
+7,1,F2,500mA,Device:Polyfuse_Small,Fuse:Fuse_1206_3216Metric
+8,1,J1,PinHeader-2x3,Connector_Generic:Conn_02x03_Odd_Even,locallib:PinHeader_2x03_DC3
+9,1,J2,PinHeader-1x3,Connector_Generic:Conn_01x03,Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical
+10,2,"R1, R2",5.1k,Device:R_Small,Resistor_SMD:R_0603_1608Metric
+11,1,R3,470,Device:R_Small,Resistor_SMD:R_0603_1608Metric
+12,3,"R4, R5, R6",1k,Device:R_Small,Resistor_SMD:R_0603_1608Metric
+13,2,"SW1, SW2",22D28,Switch:SW_DPDT_x2,locallib:MS-22D28-G020
+14,1,U1,CH340E,Interface_USB:CH340E,Package_SO:MSOP-10_3x3mm_P0.5mm
+15,1,U2,AP2112K-3.3,Regulator_Linear:AP2112K-3.3,Package_TO_SOT_SMD:SOT-23-5
+16,1,USB1,HRO-TYPE-C-31-M-12,Type-C:HRO-TYPE-C-31-M-12,Type-C:HRO-TYPE-C-31-M-12-Assembly
