@@ -3,6 +3,11 @@
 A CH340E-based USB-to-UPDI/serial hybrid adapter  
 Designed for convenient programming and debugging of newer AVR devices.
 
+**Warning:** Currently untested.
+It is based on tested circuitry so it *should* work, but proceed at your own risk until I produce one myself and confirm its functionality.
+
+![Render front](https://raw.githubusercontent.com/ai03-2725/UPDI-Hybrid-Adapter/main/resources/front.jpg)
+![Render back](https://raw.githubusercontent.com/ai03-2725/UPDI-Hybrid-Adapter/main/resources/back.jpg)
 
 ## Features
 
