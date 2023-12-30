@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "locallib")(type "KiCad")(uri "${KIPRJMOD}/../libs/locallib.pretty/locallib.kicad_sym")(options "")(descr ""))
+  (lib (name "Type-C")(type "Legacy")(uri "${KIPRJMOD}/../libs/Type-C.pretty/Type-C.lib")(options "")(descr ""))
+)
