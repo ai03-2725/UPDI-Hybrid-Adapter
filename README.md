@@ -14,7 +14,8 @@ It is based on tested circuitry so it *should* work, but proceed at your own ris
 - Practicality 
   - Small 19 x 47mm form factor, connects via USB-C
   - Most components inset 1mm from the board edge to prevent accidental damage during use
-  - Fully single-sided for affordable PCBA and easy reflow assembly
+  - Components only on topside for affordable PCBA and easy reflow assembly
+  - Can be ordered fully assembled using JLCPCB's economic PCBA service
 - Safety
   - ESD protection on USB port
   - Fused at both USB connector and output for double overcurrent protection
