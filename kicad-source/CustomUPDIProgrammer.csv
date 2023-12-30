@@ -15,3 +15,5 @@ Item,Qty,Reference(s),Value,LibPart,Footprint
 14,1,U1,CH340E,Interface_USB:CH340E,Package_SO:MSOP-10_3x3mm_P0.5mm
 15,1,U2,AP2112K-3.3,Regulator_Linear:AP2112K-3.3,Package_TO_SOT_SMD:SOT-23-5
 16,1,USB1,HRO-TYPE-C-31-M-12,Type-C:HRO-TYPE-C-31-M-12,Type-C:HRO-TYPE-C-31-M-12-Assembly
+,,,,,
+Total,24,,,,
